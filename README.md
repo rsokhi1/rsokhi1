@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Rajbeer - Software Developer in Training
 
+- 🌱 I’m currently learning DSA.
+- 💬 Ask me about anything😁
+- 📫 How to reach me: [Email me at: rajbeer41@gmai.com](rajbeer41@gmail.com) or at [LinkedIn](https://www.linkedin.com/in/rajbeer-sokhi/)
+
+<img align="left" alt="Rajbeer's GitHub Stats" src="https://https://vercel.com/rsokhi1/stats-repo/api?username=rsokhi&show_icons=true&hide_border=true" />
 <!--
 **rsokhi1/rsokhi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
