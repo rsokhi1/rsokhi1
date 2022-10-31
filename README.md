@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning DSA.
 - 💬 Ask me about anything😁
-- 📫 How to reach me: [rajbeer41@gmai.com](rajbeer41@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rajbeer-sokhi/)
+- 📫 How to reach me: [rajbeer41@gmail.com](rajbeer41@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rajbeer-sokhi/)
 
 <!-- <img align="left" alt="Rajbeer's GitHub Stats" src="https://https://vercel.com/rsokhi1/stats-repo/api?username=rsokhi&show_icons=true&hide_border=true" /> -->
 [![Rajbeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsokhi1)](https://github.com/anuraghazra/github-readme-stats)
