@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rajbeer - Software Developer in Training
+### Hi there 👋, I'm Rajbeer - Software Developer | Android Developer
 
 - 🌱 I’m currently learning DSA.
 - 💬 Ask me about anything😁
