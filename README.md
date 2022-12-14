@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rajbeer - Software Developer | Android Developer
 
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning DSA and AWS.
 - 💬 Ask me about anything😁
 - 📫 How to reach me: [rajbeer41@gmail.com](rajbeer41@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rajbeer-sokhi/)
 
