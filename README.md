@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DSA and AWS.<br>💬 Ask me about anything😁<br>📫 How to reach me: rajbeer41@gmail.com or on LinkedIn
+🌱 I’m currently learning DSA and AWS.<br>💬 Ask me about anything😁<br>📫 How to reach me: rajbeer41@gmail.com or on [LinkedIn](https://www.linkedin.com/in/rajbeer-sokhi/)
 
 
 ## 🌐 Socials:
